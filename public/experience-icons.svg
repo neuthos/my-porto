@@ -1,0 +1,61 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- PT Aviana (exp1.svg) -->
+  <g id="exp1">
+    <rect width="200" height="200" fill="#13162d"/>
+    <!-- Enterprise system representation -->
+    <g fill="#cbacf9" opacity="0.8">
+      <circle cx="100" cy="70" r="30"/>
+      <circle cx="60" cy="130" r="20"/>
+      <circle cx="140" cy="130" r="20"/>
+    </g>
+    <g stroke="#cbacf9" stroke-width="2">
+      <line x1="100" y1="70" x2="60" y2="130"/>
+      <line x1="100" y1="70" x2="140" y2="130"/>
+    </g>
+  </g>
+
+  <!-- vOffice (exp2.svg) -->
+  <g id="exp2">
+    <rect width="200" height="200" fill="#13162d"/>
+    <!-- Office management icon -->
+    <g fill="#cbacf9" opacity="0.8">
+      <rect x="60" y="60" width="80" height="80" rx="10"/>
+      <rect x="70" y="70" width="60" height="10" rx="5"/>
+      <rect x="70" y="90" width="40" height="10" rx="5"/>
+      <rect x="70" y="110" width="50" height="10" rx="5"/>
+    </g>
+  </g>
+
+  <!-- Vizir (exp3.svg) -->
+  <g id="exp3">
+    <rect width="200" height="200" fill="#13162d"/>
+    <!-- Low-code framework representation -->
+    <g fill="#cbacf9" opacity="0.8">
+      <rect x="50" y="50" width="40" height="40" rx="5"/>
+      <rect x="110" y="50" width="40" height="40" rx="5"/>
+      <rect x="50" y="110" width="40" height="40" rx="5"/>
+      <rect x="110" y="110" width="40" height="40" rx="5"/>
+    </g>
+    <g stroke="#cbacf9" stroke-width="2">
+      <line x1="90" y1="70" x2="110" y2="70"/>
+      <line x1="70" y1="90" x2="70" y2="110"/>
+      <line x1="130" y1="90" x2="130" y2="110"/>
+      <line x1="90" y1="130" x2="110" y2="130"/>
+    </g>
+  </g>
+
+  <!-- Keda (exp4.svg) -->
+  <g id="exp4">
+    <rect width="200" height="200" fill="#13162d"/>
+    <!-- ERP system representation -->
+    <g fill="#cbacf9" opacity="0.2">
+      <rect x="40" y="40" width="120" height="120" rx="10"/>
+    </g>
+    <g stroke="#cbacf9" stroke-width="2" fill="none">
+      <path d="M60 100 L90 70 L120 110 L140 80"/>
+      <circle cx="90" cy="70" r="4" fill="#cbacf9"/>
+      <circle cx="120" cy="110" r="4" fill="#cbacf9"/>
+      <circle cx="140" cy="80" r="4" fill="#cbacf9"/>
+    </g>
+  </g>
+</svg>

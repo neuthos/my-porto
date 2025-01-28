@@ -1,0 +1,25 @@
+<svg viewBox="0 0 464 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="464" height="300" fill="#13162d"/>
+  
+  <!-- Grid pattern representing marketplace -->
+  <g fill="#cbacf9" opacity="0.1">
+    <rect x="82" y="50" width="80" height="80" rx="10"/>
+    <rect x="192" y="50" width="80" height="80" rx="10"/>
+    <rect x="302" y="50" width="80" height="80" rx="10"/>
+    <rect x="82" y="160" width="80" height="80" rx="10"/>
+    <rect x="192" y="160" width="80" height="80" rx="10"/>
+    <rect x="302" y="160" width="80" height="80" rx="10"/>
+  </g>
+  
+  <!-- Shopping cart and UI elements -->
+  <g fill="#cbacf9" opacity="0.8">
+    <circle cx="122" cy="90" r="10"/>
+    <circle cx="232" cy="90" r="10"/>
+    <circle cx="342" cy="90" r="10"/>
+  </g>
+
+  <!-- Connection lines -->
+  <path d="M122 90 L232 90 L342 90 M122 200 L232 200 L342 200" 
+        stroke="#cbacf9" stroke-width="2" opacity="0.3"/>
+</svg>

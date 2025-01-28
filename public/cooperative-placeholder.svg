@@ -1,0 +1,28 @@
+<svg viewBox="0 0 464 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="464" height="300" fill="#13162d"/>
+  
+  <!-- Connected nodes system -->
+  <g stroke="#cbacf9" stroke-width="2" opacity="0.3">
+    <line x1="232" y1="80" x2="132" y2="150"/>
+    <line x1="232" y1="80" x2="332" y2="150"/>
+    <line x1="132" y1="150" x2="232" y2="220"/>
+    <line x1="332" y1="150" x2="232" y2="220"/>
+  </g>
+  
+  <!-- Nodes -->
+  <g fill="#cbacf9" opacity="0.8">
+    <circle cx="232" cy="80" r="25"/>
+    <circle cx="132" cy="150" r="25"/>
+    <circle cx="332" cy="150" r="25"/>
+    <circle cx="232" cy="220" r="25"/>
+  </g>
+  
+  <!-- Node icons -->
+  <g fill="#13162d">
+    <text x="222" y="85" font-size="14">POS</text>
+    <text x="122" y="155" font-size="14">ACC</text>
+    <text x="322" y="155" font-size="14">INV</text>
+    <text x="222" y="225" font-size="14">FIN</text>
+  </g>
+</svg>
