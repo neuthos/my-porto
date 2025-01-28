@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "description": "Modern & Minimalist Next.js Portfolio.",
+  "description": "Let's build something amazing together.",
   "license": "MIT",
   "dependencies": {
     "@react-three/drei": "^9.105.6",
